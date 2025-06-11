@@ -1,0 +1,37 @@
+# Nome do Workflow
+name: Generate Snake Animation
+
+# Controles de quando a Action vai rodar
+on:
+  # Roda automaticamente a cada 6 horas
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # Permite que você rode manualmente pela aba Actions
+  workflow_dispatch:
+
+# Tarefas que o workflow vai executar
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Passo 1: Puxa o código do seu repositório para a máquina da Action
+      - uses: actions/checkout@v3
+
+      # Passo 2: Gera a animação da cobrinha
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Gera o arquivo SVG e salva em dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Passo 3: Envia os arquivos gerados de volta para o seu repositório
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
