@@ -11,10 +11,10 @@
 
 ## 📌 About Me
 
--   🎓 &nbsp; Currently pursuing a 7th semester in **Software Engineering** at the University of Pernambuco (UPE), Brazil.
--   👨‍💻 &nbsp; Experienced **Front-End Developer** with 3 years crafting user-friendly interfaces.
--   🚀 &nbsp; Driven by a passion for **design**, **gaming**, and the exciting world of **Artificial Intelligence**.
--   🌱 &nbsp; Actively learning and improving skills in **React**, **JavaScript**, and **TypeScript**.
+-   🎓 &nbsp; 7th-semester **Software Engineering** student at the University of Pernambuco (UPE).
+-   👨‍💻 &nbsp; **Front-End Developer** with 3 years of experience building engaging user interfaces.
+-   🚀 &nbsp; Passionate about **design**, **gaming**, and **artificial intelligence**.
+-   🌱 &nbsp; Currently expanding my skill set with **React**, **JavaScript**, and **TypeScript**.
 
 <br>
 
