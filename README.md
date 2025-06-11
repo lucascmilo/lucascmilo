@@ -66,13 +66,13 @@
 ## 🔗 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/lucas-camilo-50b0652a4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F550A2" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/https://www.instagram.com/lucsmilo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=F550A2" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:lucasecbezerra@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=F550A2" alt="Email" />
   </a>
 </div>
