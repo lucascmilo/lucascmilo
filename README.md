@@ -57,9 +57,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascmilo&show_icons=true&theme=dracula&bg_color=0d1117&title_color=F550A2&icon_color=F550A2&text_color=FFF&border_color=F550A2" alt="Lucas Camilo's GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascmilo&theme=dracula&background=0d1117&ring=F550A2&fire=F550A2&currStreakLabel=F550A2&border=F550A2" alt="Lucas Camilo's GitHub Streak" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmilo&layout=compact&theme=dracula&bg_color=0d1117&title_color=F550A2&text_color=FFF&border_color=F550A2" alt="Lucas Camilo's Top Languages" />
-</div>
 
 ---
 
